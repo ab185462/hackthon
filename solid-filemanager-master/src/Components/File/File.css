@@ -1,0 +1,26 @@
+.File {
+    cursor: pointer;
+    float: left;
+    display: block;
+    width: 100%;
+    user-select: none;
+    background-color: #3683b6;
+    text-anchor: middle;
+    
+}
+
+.File:hover {
+    cursor: pointer;
+    background: #3683b6;
+    
+}
+
+.File[data-selected=true] {
+    background-color: #e8f0fe;
+    
+}
+
+.File[data-selected=true],
+.File[data-selected=true] > li > div > span {
+    color: #1967d2;
+}

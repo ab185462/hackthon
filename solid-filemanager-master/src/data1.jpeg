@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+
+<link href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/favicon.ico" rel="shortcut icon">
+
+<!--iOS -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/apple-touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/apple-touch-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/apple-touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/apple-touch-icon-ipad.png" />
+
+<!-- Windows 8 / RT -->
+<meta name="msapplication-TileColor" content="#000">
+<meta http-equiv="cleartype" content="on">
+
+<!-- Google WebFonts -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic|Merriweather:400,300,700,900' rel='stylesheet' type='text/css'>
+
+<!-- Optimizely -->
+<script src="https://cdn.optimizely.com/js/3015910294.js"></script>
+
+<!-- JM Twitter Cards by Julien Maury 7.0.2 -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@WhartonKnows">
+<meta name="twitter:site" content="@WhartonKnows">
+<meta name="twitter:title" content="Marketing the Future: How Data Analytics Is Changing">
+<meta name="twitter:description" content="Data analytics is at an inflection point as growing concerns about security, privacy, bias and regulation bump up against its benefits.">
+<meta name="twitter:image" content="https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg">
+<!-- /JM Twitter Cards by Julien Maury 7.0.2 -->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Data analytics is at an inflection point as growing concerns about security, privacy, bias and regulation bump up against its benefits."/>
+<meta name="news_keywords" content="business, education" />
+<link rel="original-source" href="https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/" />
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/" />
+<link rel="publisher" href="https://plus.google.com/101931881623039862307"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Marketing the Future: How Data Analytics Is Changing - Knowledge@Wharton" />
+<meta property="og:description" content="Data analytics is at an inflection point as growing concerns about security, privacy, bias and regulation bump up against its benefits." />
+<meta property="og:url" content="https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/" />
+<meta property="og:site_name" content="Knowledge@Wharton" />
+<meta property="article:publisher" content="https://www.facebook.com/knowledgeatwharton" />
+<meta property="article:section" content="Featured" />
+<meta property="fb:app_id" content="708284481" />
+<meta property="og:image" content="https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="440" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ssl.p.jwpcdn.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Knowledge@Wharton &raquo; Marketing the Future: How Data Analytics Is Changing Comments Feed" href="https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/knowledge.wharton.upenn.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.6"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://knowledge.wharton.upenn.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='kw-cc-sync-plugin-styles-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/kw-cc-sync/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='spu-public-css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/popups/public/assets/css/public.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='real-time-validation-plugin-styles-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/real-time-validation-for-gravity-forms/public/assets/css/public.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='master-css'  href='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/css/master.css?ver=20171106' type='text/css' media='all' />
+<link rel='stylesheet' id='ss-social-css'  href='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/fonts/ss-social/ss-social.css?ver=5.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ss-standard-css'  href='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/fonts/ss-standard/ss-standard.css?ver=5.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/style.css?ver=20170909' type='text/css' media='all' />
+<link rel='stylesheet' id='elasticpress-facets-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/elasticpress/dist/css/facets.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='appip-theme-styles-css'  href='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/appip-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='amazon-grid-shortcode-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/amazon-product-in-a-post-plugin/css/amazon-grid.css?ver=1548174549' type='text/css' media='all' />
+<style id='amazon-grid-shortcode-inline-css' type='text/css'>
+/*version 2.1 Modified*/
+/*version 2.0*/
+a[target=\"amazonwin\"] {margin: 0 !important;}
+a[rel^=\"appiplightbox\"] { display: inline-block; font-size: .75rem; text-align: center; max-width: 100%; }
+.amazon-product-table { border-collapse: collapse; border: 0 none !important; width: 100%; }
+.amazon-product-table td, table.amazon-product-table td { border: 0 none ; padding: 0; }
+.amazon-image-wrapper { padding: 0 1%; text-align: center;float: left; margin: 0 2% 0 0;-webkit-box-sizing: border-box;-moz-box-sizing: border-box; box-sizing: border-box; max-width: 25%; width: 100%; }
+.amazon-image-wrapper a { border-bottom: none; display: block; font-size: 12px; text-align: center; }
+.amazon-image-wrapper br {display: none;}
+.amazon-product-table hr {display: block;}
+span.amazon-tiny {font-size: 10px;}
+div.amazon-buying {text-align: left;}
+h2.amazon-asin-title {margin: 0 0 5px 0; }
+span.asin-title {text-align: left;  font-size: inherit;}
+span.amazon-author { color: #666; }
+span.amazon-starring-label { color: #999; }
+span.amazon-director-label { color: #999; }
+span.amazon-rating-label { color: #999; }
+span.amazon-starring { color: #666; }
+.amazon-manufacturer { color: #666; }
+.amazon-ESRB { color: #666; font-size : 12px;}
+.amazon-feature { color: #666; font-size : 12px;}
+.amazon-platform { color: #666; font-size : 12px;}
+.amazon-system { color: #666; font-size : 12px;}
+span.amazon-starring { color: #666; }
+span.amazon-director { color: #666; }
+span.amazon-rating { color: #666; }
+.amazon-product-price { border-collapse: collapse; border: 0 none; padding: 0 !important; }
+.amazon-product-price a img.amazon-image { background-color: transparent; border: 0 none; }
+.amazon-post-text { padding: 0 !important; text-align: left; }
+.appip-label {color: #666; font-size: inherit;font-weight: bold;text-transform: uppercase;}
+.amazon-list-price-label { color: #666; text-align: left; }
+.amazon-list-price { text-align: left; text-decoration: line-through; }
+.amazon-price-label { color: #666; text-align: left;  }
+.amazon-price { color: #800000; font-weight: bold; text-align: left; }
+.amazon-new-label { color: #666; text-align: left;}
+.amazon-new { color: #800000; font-weight: bold; text-align: left; }
+.amazon-used-label { color: #666; text-align: left; }
+.amazon-used { color: #666; text-align: left; }
+div.amazon-dates { padding: 0 !important; text-align: left; }
+div.amazon-dates span.amazon-preorder { color: #d16601; font-weight: bold; text-align: left; }
+div.amazon-dates span.amazon-release-date { color: #666; font-size: 10px; text-align: left; }
+span.instock { color: #008000; font-size: .85em; }
+span.outofstock { color: #800000; font-size: .85em; }
+div.appip-multi-divider {margin: 10px 0;}
+.amazon-product-table .amazon-buying h2.amazon-asin-title { border-bottom: 0 none; font-size: 1rem; line-height: 1.25em; margin: 0; }
+.amazon-product-table hr { height: 0px; margin: 6px 0; }
+.amazon-list-price-label, .amazon-new, .amazon-new-label, .amazon-used-label, .amazon-list-price {}
+.amazon-dates {height: auto;}
+.amazon-dates br {display: none;}
+.amazon-list-price-label, .amazon-new-label, .amazon-used-label { font-weight: bold; min-width: 7em;width: auto;}
+.amazon-product-table:after {clear: both;}
+.amazon-tiny {text-align: center;}
+#content table.amazon-product-table { clear: both; margin-bottom: 10px; }
+#content table.amazon-product-price { -moz-border-radius: 0; -webkit-border-radius: 0; border-collapse: collapse; border-radius: 0; border: 0 none; margin: 0; max-width: 100%; width: auto; }
+#content table.amazon-product-price td { border: 0 none !important; padding: .25em 0; }
+#content table.amazon-product-table &gt; tbody &gt; tr &gt; td {padding: .5rem !important;}
+.amazon-buying { box-sizing: border-box; float: left; max-width: 73%; width: 100%; }
+table.amazon-product-table hr {display:inline-block;max-width:100%;  width: 100%;  border-top: 1px solid #e2e5e7;}
+table.amazon-product-price { float: left; margin: 0; width: 100%; }
+.amazon-product-table a { border-bottom: 0 none; text-decoration: none; }
+table.amazon-product-price td { padding: 1%; width: auto; }
+table.amazon-product-price tr:first-child td {width:7em;}
+.amazon-additional-images-text { display: block; font-size: x-small; font-weight: bold; }
+.amazon-dates br {display: none;}
+.amazon-element-imagesets { border: 1px solid #ccc; display: inline-block; margin: 5px; overflow: hidden; padding: 10px; }
+.amazon-element-imagesets br {display: none;}
+.amazon-element-imagesets a { float: left; margin: 3px; }
+.amazon-element-imagesets a img {border: 1px solid #fff;}
+.amazon-additional-images-wrapper { border: 1px solid #ccc; box-sizing: border-box; display: inline-block; margin: 1%; overflow: hidden; padding: 2%; }
+.amazon-additional-images-wrapper a { float: left; margin: 3px; }
+.amazon-additional-images-wrapper a img {border: 1px solid #fff;width:25px;}
+.amazon-additional-images-wrapper br {display: none;}
+img.amazon-varient-image {max-width: 50px;margin: 1%;padding: 1px;background-color: #999;}
+img.amazon-varient-image:hover {background-color: #3A9AD9;}
+.amazon_variations_wrapper{}
+.amazon_varients{}
+.amazon-varient-type-link {display: inline-block;font-weight: bold;}
+.amazon-varient-type-price {display: inline-block;color: #EA0202;font-weight: bold;}
+.amazon-price-button{margin-top:2%;display:block;}
+.amazon-price-button &gt; a{display:block;margin-top:8px;margin-bottom:5px;width:165px;}
+.amazon-price-button &gt; a img.amazon-price-button-img{border:0 none;margin:0px;background:transparent;}
+.amazon-product-table td.amazon-list-variants {border-top: 1px solid #CCC;border-bottom: 1px solid #ccc;padding: 2%;margin-top:2%;}
+.amazon-variant-price-text{color:initial;}
+span.amazon-variant-price-text {font-weight: normal;}
+@media only screen and (max-width : 1200px) {}
+@media only screen and (max-width : 992px) {}
+@media only screen and (max-width : 768px) {}
+@media only screen and (max-width : 550px) {
+	.amazon-image-wrapper { padding: 0; text-align: center; float: none; margin: 0 auto 2%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; max-width: 75%; width: 100%; }
+	.amazon-buying { box-sizing: border-box; float: none; max-width: 100%; width: 100%; }
+	.amazon-product-price,table.amazon-product-price { float: none; margin: 0; max-width: 100%; width: 100%; }
+	.amazon-product-pricing-wrap { display: block; clear: both; }
+	.amazon-dates { text-align: center; }
+	.amazon-dates a { margin: 0 auto !important; width: 50% !important; }
+	.amazon-dates a img { margin: 5% auto 0 !important; width: 95% !important; }
+	span.amazon-tiny {margin-top: 2px;background: #ccc;padding:1%;display: block;font-size: 1.25em;color: #000;text-transform: uppercase;border: 1px solid #999;line-height: 1.25em;}
+	span.amazon-tiny:active {background: #EDEDED;}
+	.amazon-product-table .amazon-buying h2.amazon-asin-title {margin-top: 3%;display: block;line-height: 1.5em;}
+	.amazon-additional-images-wrapper { max-width: 100%; width: 100%; margin: 1% 0; text-align: center; }
+	.amazon-additional-images-wrapper a { float: none; display: inline-block; width: 18%; margin: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+	.amazon-additional-images-wrapper a img { width: 75%; }
+	td.amazon-list-price-label, td.amazon-new-label, td.amazon-used-label, td.amazon-used-price, td.amazon-new, td.amazon-list-price { display: inline-block; }
+}
+@media only screen and (max-width : 320px) {}
+
+.amazon-elements-wrapper,.amazon-element-wrapper{clear: both;}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://knowledge.wharton.upenn.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://ssl.p.jwpcdn.com/6/12/jwplayer.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.6.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.6.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/kw-cc-sync/public/assets/js/public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.2.6.5'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.2.6.5'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/real-time-validation-for-gravity-forms/public/assets/js/livevalidation_standalone.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/real-time-validation-for-gravity-forms/public/assets/js/public.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/real-time-validation-for-gravity-forms/public/assets/js/default_validation.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/modernize-2.8.2-min.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/fonts/ss-social/ss-social.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/fonts/ss-standard/ss-standard.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/toolbar-scroller.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/plugins.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/ion.rangeSlider.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/helper.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/js/script.js?ver=20151209'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9'></script>
+<link rel='https://api.w.org/' href='https://knowledge.wharton.upenn.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://knowledge.wharton.upenn.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://knowledge.wharton.upenn.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://knlg.net/375ncpd' />
+<link rel="alternate" type="application/json+oembed" href="https://knowledge.wharton.upenn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://knowledge.wharton.upenn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&#038;format=xml" />
+<script type="text/javascript">jwplayer.key='OqqCubmtL8b2icg6VcAvSlayzMHV77mXmbP6dLKejIM=';jwplayer.defaults = { "ph": 2 };</script><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<script>
+var _prum = [['id', '5237a656abe53da71b000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/1213.js" async="async" ></script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "2959658";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2959658&fmt=gif" />
+</noscript><!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = ['mp3','pdf'];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-404453-1', 'auto');
+	ga('require', 'displayfeatures');
+ 
+    ga('set',"dimension4","anonymous");
+    // Article Variables
+    ga('set',"dimension3","Technology");
+    ga('set',"dimension1","'376'");
+    ga('set',"dimension2","1 Year");
+	ga('send', 'pageview');
+</script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+	<link rel="stylesheet" href="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/css/ie8-and-down.css" />
+<![endif]-->
+
+<!-- DoubleClick for Publishers -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	// Footer Slots
+	googletag.defineSlot('/34558873/KW_Footer_1', [140, 50], 'div-gpt-ad-1378474385333-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Footer_2', [140, 50], 'div-gpt-ad-1378475308734-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Footer_3', [140, 50], 'div-gpt-ad-1378475497346-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Footer_4', [140, 50], 'div-gpt-ad-1378475548341-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Footer_5', [140, 50], 'div-gpt-ad-1378475578066-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Footer_6', [140, 50], 'div-gpt-ad-1378475603758-0').addService(googletag.pubads());
+
+	
+		// Article Slots
+	googletag.defineSlot('/34558873/KW_Article_Body', [260, 400], 'div-gpt-ad-1378786306668-0').addService(googletag.pubads());
+	googletag.defineSlot('/34558873/KW_Article_Friend', [260, 360], 'div-gpt-ad-1392328012956-0').addService(googletag.pubads());
+	
+	// Topic Archive
+	// Region Archive
+	// Category Archive
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script>
+
+<title>Marketing the Future: How Data Analytics Is Changing - Knowledge@Wharton</title>
+
+</head>
+<body class="article-template-default single single-article postid-109556">
+
+	<div id="top-bar">
+		<nav class="language-nav wrapper">
+			<a id="wharton" href="http://www.wharton.upenn.edu/" target="_blank">Wharton, University of Pennsylvania</a>
+			<p>The K@W Network:</p>
+			<ul>
+				<li><a href="#" class="active">English</a></li>
+				<!-- <li><a href="#">لعربية</a></li> -->
+				<li><a href="http://www.knowledgeatwharton.com.cn/" target="_blank">简体中文</a></li>
+				<li><a href="http://www.knowledgeatwharton.com.cn/zh-hant/" target="_blank">繁體中文</a></li>
+				<li><a href="http://www.knowledgeatwharton.com.es/" target="_blank">Español</a></li>
+				<li><a href="http://www.knowledgeatwharton.com.br/" target="_blank">Portugués</a></li>
+				<li><a href="http://kwhs.wharton.upenn.edu/" target="_blank">KWHS</a></li>
+			</ul>
+			<ul class="signin">
+									<li><a href="https://knowledge.wharton.upenn.edu/wp-login.php?redirect_to=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" title="Login">Log In</a></li>
+					<li><a href="https://knowledge.wharton.upenn.edu/register/">Register</a></li>
+									<li class="headersocial hideonphone"><a href="http://www.facebook.com/knowledgeatwharton/" class="ss-icon ss-social" target="_blank">Facebook</a></li>
+					<li class="headersocial hideonphone"><a href="https://twitter.com/whartonknows" class="ss-icon ss-social" target="_blank">Twitter</a></li>
+					<li class="headersocial hideonphone"><a href="https://www.linkedin.com/company/knowledge-wharton" class="ss-icon ss-social" target="_blank">LinkedIn</a></li>
+					<li class="headersocial hideonphone"><a href="https://www.instagram.com/whartonknows/?hl=en" class="ss-icon ss-social" target="_blank">Instagram</a></li>
+			</ul>
+		</nav>
+	</div><!--top-bar-->
+
+<header id="banner" class="gradient">
+		<div class="wrapper">
+
+			<a class="btn btn-small ss-icon ss-standard" title="Show Navigation" id="btn-shownav">Rows</a>
+
+			<div id="header-logo" class="ir"><a href="https://knowledge.wharton.upenn.edu">Knowledge @ Wharton</a></div>
+
+
+			<a class="btn btn-small ss-icon ss-standard" title="Show Search" id="btn-showsearch">Search</a>
+			<a class="btn btn-small ss-icon ss-standard" title="Show Language Options" id="btn-showlang">World</a>
+
+			<div class="search-field">
+				<form class="searchform" method="get" action="https://knowledge.wharton.upenn.edu">
+		<input name="s" type="text" class="search-query" placeholder="Search" title="Search" />
+		<input name="kw_search_sort_order" type="hidden" value="DESC">
+		<input name="kw_search_sort_by" type="hidden" value="date">
+		<button class="ss-icon ss-standard">Search</button>
+</form>
+			</div>
+		 </div><!--wrapper-->
+		<div id="print-logo" style="display: none;"><img src="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/header-logo-print.jpg" alt="Knowledge@Wharton" /></div>
+		<div class="wrapper navwrapper">
+			<nav id="main-nav" class="clearfix">
+				<div class="mobile-closenav ss-delete right"></div>
+				<ul><li id="menu-item-92999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-92999"><a href="#">Topics<span class="ss-dropdown right"></span><span class="ss-standard ss-navigateright right"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-92992" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-92992"><a href="https://knowledge.wharton.upenn.edu/topic/finance/">Finance</a></li>
+	<li id="menu-item-92993" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-92993"><a href="https://knowledge.wharton.upenn.edu/topic/innovation/">Innovation</a></li>
+	<li id="menu-item-92994" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-92994"><a href="https://knowledge.wharton.upenn.edu/topic/leadership/">Leadership</a></li>
+	<li id="menu-item-94077" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-94077"><a href="https://knowledge.wharton.upenn.edu/topic/marketing/">Marketing</a></li>
+	<li id="menu-item-92995" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-92995"><a href="https://knowledge.wharton.upenn.edu/topic/management/">Management</a></li>
+	<li id="menu-item-92997" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-92997"><a href="https://knowledge.wharton.upenn.edu/topic/public-policy/">Public Policy</a></li>
+	<li id="menu-item-94078" class="menu-item menu-item-type-taxonomy menu-item-object-topic menu-item-94078"><a href="https://knowledge.wharton.upenn.edu/topic/social-impact/">Social Impact</a></li>
+	<li id="menu-item-92998" class="menu-item menu-item-type-taxonomy menu-item-object-topic current-article-ancestor current-menu-parent current-article-parent menu-item-92998"><a href="https://knowledge.wharton.upenn.edu/topic/technology/">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-93000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-93000"><a href="#">Regions<span class="ss-dropdown right"></span><span class="ss-standard ss-navigateright right"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-93006" class="menu-item menu-item-type-taxonomy menu-item-object-region current-article-ancestor current-menu-parent current-article-parent menu-item-93006"><a href="https://knowledge.wharton.upenn.edu/region/north-america/">North America</a></li>
+	<li id="menu-item-93001" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-93001"><a href="https://knowledge.wharton.upenn.edu/region/asia-pacific/">Asia-Pacific</a></li>
+	<li id="menu-item-93002" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-93002"><a href="https://knowledge.wharton.upenn.edu/region/europe/">Europe</a></li>
+	<li id="menu-item-93003" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-93003"><a href="https://knowledge.wharton.upenn.edu/region/latin-america/">Latin America</a></li>
+	<li id="menu-item-93005" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-93005"><a href="https://knowledge.wharton.upenn.edu/region/middle-east-africa/">Middle East &#038; Africa</a></li>
+	<li id="menu-item-93608" class="menu-item menu-item-type-taxonomy menu-item-object-region menu-item-93608"><a href="https://knowledge.wharton.upenn.edu/region/global-focus/">Global Focus</a></li>
+</ul>
+</li>
+<li id="menu-item-93009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93009"><a href="/category/research/">Research</a></li>
+<li id="menu-item-108527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108527"><a href="https://knowledge.wharton.upenn.edu/category/podcasts/">Podcasts</a></li>
+<li id="menu-item-95559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95559"><a href="#">More<span class="ss-dropdown right"></span><span class="ss-standard ss-navigateright right"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-109265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109265"><a href="https://knowledge.wharton.upenn.edu/category/wharton-business-daily/">Wharton Business Daily</a></li>
+	<li id="menu-item-93008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93008"><a href="https://knowledge.wharton.upenn.edu/category/video/">Videos</a></li>
+	<li id="menu-item-95561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-95561"><a href="https://knowledge.wharton.upenn.edu/category/opinion/">Opinion</a></li>
+	<li id="menu-item-93010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93010"><a href="/special-report/">Reports</a></li>
+	<li id="menu-item-104634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104634"><a href="https://knowledge.wharton.upenn.edu/register/newsletter/">Newsletter</a></li>
+</ul>
+</li>
+<li id="menu-item-93602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-93602"><a href="#">About<span class="ss-dropdown right"></span><span class="ss-standard ss-navigateright right"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-93007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93007"><a href="https://knowledge.wharton.upenn.edu/about/">About Us</a></li>
+	<li id="menu-item-93653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93653"><a href="https://knowledge.wharton.upenn.edu/team/">Our Team</a></li>
+	<li id="menu-item-93604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93604"><a href="https://knowledge.wharton.upenn.edu/feeds/">News Feeds</a></li>
+	<li id="menu-item-93644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93644"><a href="https://knowledge.wharton.upenn.edu/feedback/">Feedback</a></li>
+</ul>
+</li>
+</ul>			</nav>
+		</div><!--wrapper-->
+	</header>
+	<div class="main-content">
+
+			<div class="wrapper article-wrapper">
+        <article>
+        	<div class="article-hero-wrapper">				<div class="article-header">										<hgroup class="article-title">
+						<h4 class="category"><a href="https://knowledge.wharton.upenn.edu/topic/technology/" rel="tag">Technology</a></h4>
+						<h1>Marketing the Future: How Data Analytics Is Changing</h1>
+						<div class="byline">
+							<p>Nov 23, 2020</p>
+
+							
+														<ul class="tags ss-standard ss-location">
+								<li><a href='https://knowledge.wharton.upenn.edu/region/north-america/'>North America</a></li>							</ul>
+													</div><!--byline-->
+					</hgroup>
+				</div><!--/.article-header-->
+									<img width="1024" height="440" src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science-1024x440.jpg" class="attachment-single size-single wp-post-image" alt="" srcset="https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg 1024w, https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science-300x129.jpg 300w, https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science-768x330.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />								<div class="article-hero-buffer"></div>
+			</div><!--/.article-hero-wrapper-->
+	        <div id="article-main">
+				<div class="twocol audio-wrapper">
+					<!--</div>.twocol-->
+					<div class="article-tools" id="article-tools">
+						<ul>
+							<ul>
+	<li><a href="https://twitter.com/intent/tweet?source=webclient&text=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing+https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Twitter&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Twitter</a></li>
+	<li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&t=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Facebook&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Facebook</a></li>
+	<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&title=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing&summary=Data+analytics+is+at+an+inflection+point+as+growing+concerns+about+security%2C+privacy%2C+bias+and+regulation+bump+up+against+the+benefits+of+artificial+intelligence+and+machine+learning.&source=Knowledge%40Wharton" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;LinkedIn&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;" >LinkedIn</a></li>
+	<li><a href="https://plus.google.com/share?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" class="ss-icon ss-social" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Google+&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Google+</a></li>
+	<li><a href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&title=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing" class="ss-icon ss-standard" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Email&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;" >Email</a></li>
+	<li><a href="javascript:window.print()" title="Print this Page" class="ss-icon ss-standard">Print</a></li>
+	<li><a href="#comments" class="ss-icon ss-standard">Comment</a></li>
+	<li><a href="javascript:void(0)" class="ss-icon ss-standard clicker" rel="quote">Quote</a></li>
+</ul>
+ 						</ul>
+					</div>
+				</div>
+				<div class="ninecol audio-player-spacer"></div>
+				<div class="eightcol article-content">
+						<div class="article-tools-horizontal article-tools-horizontal-top">
+							<ul>
+	<li><a href="https://twitter.com/intent/tweet?source=webclient&text=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing+https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Twitter&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Twitter</a></li>
+	<li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&t=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Facebook&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Facebook</a></li>
+	<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&title=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing&summary=Data+analytics+is+at+an+inflection+point+as+growing+concerns+about+security%2C+privacy%2C+bias+and+regulation+bump+up+against+the+benefits+of+artificial+intelligence+and+machine+learning.&source=Knowledge%40Wharton" class="ss-icon ss-social" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;LinkedIn&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;" >LinkedIn</a></li>
+	<li><a href="https://plus.google.com/share?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" class="ss-icon ss-social" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Google+&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;">Google+</a></li>
+	<li><a href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F&title=Marketing+the+Future%3A+How+Data+Analytics+Is+Changing" class="ss-icon ss-standard" target="_blank" onclick="javascript:window.open(this.href,&quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);ga(&quot;send&quot;, &quot;event&quot;,&quot;Social&quot;,&quot;Email&quot;,&quot;Article - Marketing the Future: How Data Analytics Is Changing&quot;);return false;" >Email</a></li>
+	<li><a href="javascript:window.print()" title="Print this Page" class="ss-icon ss-standard">Print</a></li>
+	<li><a href="#comments" class="ss-icon ss-standard">Comment</a></li>
+	<li><a href="javascript:void(0)" class="ss-icon ss-standard clicker" rel="quote">Quote</a></li>
+</ul>
+						</div>
+
+										
+					<!-- our new sponsored sections code -->
+					<!-- the rest of our sidebar --><div class="hideonphone" id="sponsoredtax"><aside class="sponsored-tax-module"><ul>
+					    		<li class="sponsortaxli"><div align="center"><a href="http://www.wns.com/" target="_blank"><img src="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/wns.png" border="0" style="opacity:.9;"/><h5 class="topic-sponsor-h5">Supports K@W&apos;s <br />Technology Content</h5></a></div></li></ul></aside></div>					<!-- end our new sponsored sections code -->
+
+					<div class="article_the_content">
+						<p>Data analytics helps marketers learn about their customers with target precision, from the movies they watch on Netflix to their favorite scoop of chocolate ice cream.</p>
+<p>Data is ubiquitous, essential and beneficial &#8212; except when it’s not.</p>
+<p>Experts warn that data analytics is at an inflection point. Growing concerns about security risks, privacy, bias and regulation are bumping up against all the benefits offered by machine learning and artificial intelligence. Layer those concerns on top of worries about the coronavirus pandemic and how it has rapidly changed consumer behavior, and the challenges become clear.</p><div class='active friend-module-target'>
+    <aside class='friend-module'>
+	    <!-- KW_Article_Friend -->
+		<div id='div-gpt-ad-1392328012956-0' style='width:260px; height:360px;'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392328012956-0'); });
+		</script>
+		</div>
+	</aside>
+	</div>
+<p>“What we’re seeing is a lot of chaos in terms of what is the right answer. And what we’re seeing is a change in strategy,” said <a target="_blank" href="https://www.linkedin.com/in/neilhoyne/">Neil Hoyne</a>, chief measurement strategist at Google and a senior fellow at <a target="_blank" href="https://wca.wharton.upenn.edu/">Wharton Customer Analytics</a>.</p>
+<p>Hoyne said he’s in constant conversation with companies that are trying to figure out the future of data analysis. Google and other internet providers recently announced plans <a target="_blank" href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html">to phase out third-party cookies</a>, which will strip marketers of a wealth of fine-grained information collected by tracking consumers across the web. Proactive companies are already pivoting, so they can be ready for a post-cookie, post-pandemic world.</p>
+<p>“The companies that are going to win are the ones who are using data, not guessing,” said Hoyne, who spoke along with other industry and academic experts during a Nov. 17 virtual symposium, “<a target="_blank" href="https://www.msi.org/events/analytics-symposium/">The Use of Analytics and AI in a Post-pandemic World</a>.” The event was hosted by the nonprofit <a target="_blank" href="https://www.msi.org/">Marketing Science Institute</a>, along with <a target="_blank" href="https://wca.wharton.upenn.edu/">Wharton Customer Analytics</a> and <a target="_blank" href="https://ai.wharton.upenn.edu/?utm_source=aaw&amp;utm_medium=hompage&amp;utm_campaign=fall2020">AI for Business</a> at The Wharton School.</p>
+<blockquote><p>“The companies that are going to win are the ones who are using data, not guessing.” <span class='attribution'>&#8211;Neil Hoyne</span></p></blockquote>
+<p>The symposium touched on a wide range of topics under the umbrella of data analytics while keeping sharp focus on what’s ahead in the evolving world of artificial intelligence.</p>
+<p>“In trying to design the program today, we couldn’t ignore the obvious, which is 2020 has been the year of disruption and risks &#8212; and, hopefully, successful management of those risks,” said AI for Business Faculty Director <a target="_blank" href="https://oid.wharton.upenn.edu/profile/kartikh/"><a href="https://knowledge.wharton.upenn.edu/faculty/kartikh/" target="_blank">Kartik Hosanagar</a></a>, who is also a Wharton professor of operations, information and decisions.</p><div class='active sponsor-module-target'>
+    <aside class='sponsor-module'>
+		<!-- <h4>Sponsored Content:</h4> -->
+		<h4>Knowledge@Wharton High School</h4>
+		<!-- KW_Article_Body -->
+		<div id='div-gpt-ad-1378786306668-0'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378786306668-0'); });
+		</script>
+		</div>
+	</aside>
+	</div>
+<p><strong>The Risks and Rewards of Data</strong></p>
+<p>Much attention has been paid to all the impressive ways that AI and machine learning help companies by automating services, predicting patterns and making recommendations that lead to greater sales and engagement. A third of Amazon’s sales come from its recommendation algorithm, for example, while YouTube’s algorithm drives 70% of the content watched on its platform.</p>
+<p>But, Hosanagar said, the risks associated with AI need equal attention and priority from managers.</p>
+<p>AI can create social, reputational and regulatory risks, even for companies well-versed in technology. Amazon scrapped a recruiting software with a gender bias; Twitter shut down a Microsoft chatbot that “learned” how to post racists tweets; and Facebook was sued by the U.S. Department of Housing and Urban Development, which alleged the platform’s targeted advertising violates the Fair Housing Act by restricting who views housing ads.</p>
+<p>“These are not small risks for the companies,” said Hosanagar, who strongly recommended business leaders create interdisciplinary teams to continuously monitor and evaluate data for bias.</p>
+<p>Bias can be unwittingly baked into algorithms by the humans who create them. Symposium speaker <a target="_blank" href="https://www.marshall.usc.edu/personnel/kalinda-ukanwa">Kalinda Ukanwa</a>, a marketing professor at the University of Southern California’s Marshall School of Business, offered a powerful example to illustrate the problem. “Rebecca” applies for a loan with an online bank that uses AI to determine the loan. She is rejected, despite having good credit. But if she enters the same information with one difference &#8212; her gender &#8212; she is approved.</p>
+<p>While the online bank may see an initial surge in business because of the ease of use, it may suffer long-term reputational effects. Months after Rebecca’s bad experience, she may tell her friend, “Jim,” not to bother applying for a loan at that bank because she didn’t get approved.</p>
+<p>“Algorithm bias can be profitable in the short run, but unprofitable in the long run due to word of mouth reducing consumer demand,” Ukanwa said.</p>
+<p>Still, she emphasized the value in data analytics. When it works well, it takes the guesswork out of decision-making and can lead to more equitable outcomes. But AI must be vigilantly monitored and tweaked. Sometimes, there’s an easy solution. In the bank loan example, simply dropping the gender input would have prevented the bias.</p>
+<blockquote><p>“Algorithm bias can be profitable in the short run, but unprofitable in the long run due to word of mouth reducing consumer demand.” <span class='attribution'>&#8211;Kalinda Ukanwa</span></p></blockquote>
+<p><a target="_blank" href="https://marketing.wharton.upenn.edu/profile/riyengar/"><a href="https://knowledge.wharton.upenn.edu/faculty/riyengar/" target="_blank">Raghuram Iyengar</a></a>, Wharton marketing professor and faculty director for Wharton Customer Analytics, also cautioned marketers to consider how they deploy data analytics. Is it really needed to solve a problem? “I talk about this sometimes in my class: You don’t need a bazooka to get a fly,” he said.</p>
+<p><strong>Pushed by Pandemic Uncertainty</strong></p>
+<p>The current COVID-19 pandemic has disrupted business in unexpected ways, rendering obsolete some of the data analytics that were useful before consumers radically shifted their consumption patterns. Google’s Hoyne said smart companies are responding by moving from precision measurement to prediction. Instead of capturing more data, they are exploring what they can do with the data they already have. They also are shifting from third-party, cookie-based data to first-party data to establish more direct relationships with their customers.</p>
+<p>He said companies are less interested in the historical tracking of consumer data because the past doesn’t matter now. And rising concern about privacy and regulation has companies examining how to make their data more transparent to customers, as well as more reliable and relevant.</p>
+<p>These are incremental changes, not a major overhaul. “They just want to be a little bit better,” Hoyne said, calling that approach “refreshing” because it’s more sustainable for companies.</p>
+<p><a target="_blank" href="https://www.linkedin.com/in/barkhasaxena/">Barkha Saxena</a>, chief data officer for social commerce site Poshmark, held up her firm as an example of flexibility in uncertain times. Data has always driven decisions at Poshmark, and the company has taken an integrated approach that allows it to be nimble during market changes. She shared a framework that could help other companies do the same: evaluate the data, execute the plan, learn what worked and what didn’t, then repeat.</p>
+<p>“This is pretty much how you turn the data into an operating tool,” Saxena said.</p>
+<p>She also encouraged a team mindset around data. It shouldn’t be sequestered in one department but shared across business functions.</p>
+<p>“We have the foundation of very centralized, reliable and easy-to-access data, but then it’s delivered to all the teams,” she said. “It allows for the data to be accessible to all the business users at the time of the decision.”</p>
+</p>					</div>
+										<div id="endmark" class="end-marker article-end"></div>
+
+
+				</div>
+
+					<div class="article-tools-horizontal article-tools-horizontal-bottom">
+											</div>
+
+					<!-- our new sponsored sections code -->
+					<!-- the rest of our sidebar --><div class="showonphone" id="sponsoredtaxmobile"><aside class="sponsored-tax-module"><ul><li class="sponsortaxli"><a href="http://www.wns.com/" target="_blank"><img src="https://knowledge.wharton.upenn.edu/wp-content/themes/knowledge/inc/img/wns.png" border="0" style="opacity:.9;"/><h5 class="topic-sponsor-h5">Supports K@W&apos;s <br />Technology Content</h5></a></li></ul></aside></div><style>img.alignright{float:left;margin:0px 20px 4.364640883% 0px;}</style>					<!-- end our new sponsored sections code -->
+
+					        </div>
+        </article>
+    </div><!--/.article-wrapper-->
+
+
+	<div class="slider citation" id="#">
+		<div style="float:left"><h2>Citing Knowledge@Wharton</h2></div>
+		<div style="float:right;width:2"><a href="javascript:void(0);" class="ss-icon ss-standard clicker">Close</a></div><br /><br />
+			
+
+		<h2>For Personal use:</h2>
+				Please use the following citations to quote for personal use:																							 
+
+		<code><h3>MLA</h3>
+			&quot;Marketing the Future: How Data Analytics Is Changing.&quot;
+			<em>Knowledge@Wharton.</em> The Wharton School, University of Pennsylvania,
+			 23 November, 2020. Web. 28 July, 2021			 &lt;https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/&gt;
+		</code>
+									
+		<code><h3>APA</h3>
+			Marketing the Future: How Data Analytics Is Changing.
+			<em>Knowledge@Wharton</em>
+			(2020, November 23).
+			Retrieved from https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/ 
+		</code>
+
+		<code><h3>Chicago</h3>
+			&quot;Marketing the Future: How Data Analytics Is Changing&quot;
+			Knowledge@Wharton, 	 November 23, 2020,  <br>
+			accessed July 28, 2021.   
+			https://knowledge.wharton.upenn.edu/article/marketing-future-data-analytics-changing/		
+		</code>
+
+		<br /><br />				
+		<h2>For Educational/Business use:</h2>
+		Please contact us for repurposing articles, podcasts, or videos using our <a href="/opportunities/#contentlicensing" style="color:#aa3d3d;" >content licensing contact form</a>.
+		<br /><br />		</div>
+
+    	<div class="related-content">
+
+    	<div class="wrapper">
+    		<h3>Additional Reading</h3>
+    		<ul>
+				<li class="related-item first">
+											<h5>Technology</h5>
+						<h4><a onclick="ga(&quot;send&quot;, &quot;event&quot;,&quot;Engagement&quot;,&quot;Related Slot 1&quot;,&quot;109556,110107&quot;);return(true);" href="https://knowledge.wharton.upenn.edu/article/high-prices-long-wait-times-whats-ahead-for-uber-and-lyft/">High Prices and Long Wait Times: What’s Ahead for Uber and Lyft?</a></h4>
+						<p>Ride-hailing companies are spending millions to recruit drivers who left during the pandemic, but the downtime has prompted many gig workers to rethink their jobs, says Wharton’s Gad Allon.</p>
+									</li><!--col-->
+
+				<li class="related-item">
+											<h5>Finance</h5>
+						<h4><a onclick="ga(&quot;send&quot;, &quot;event&quot;,&quot;Engagement&quot;,&quot;Related Slot 2&quot;,&quot;109556,110161&quot;);return(true);" href="https://knowledge.wharton.upenn.edu/article/rising-inflation-means-stock-investors/">What Rising Inflation Means for Stock Investors</a></h4>
+						<p>Familiar hedging options like commodities are no longer safe havens against core inflation, according to new research co-authored by Wharton's Nikolai Roussanov.</p>
+									</li><!--col-->
+
+				<li class="related-item">
+					<h5>Sponsored Content</h5>
+					
+					
+					<h4><a onclick="ga(&quot;send&quot;, &quot;event&quot;,&quot;Engagement&quot;,&quot;Sponsored Slot 1&quot;,&quot;109556,105192&quot;);return(true);" href="https://knowledge.wharton.upenn.edu/article/greentown-china-holdings-moving-toward-asset-light-business-model/">Greentown China Holdings: Moving Toward an Asset-light Business Model</a></h4>
+
+					<p>Greentown, one of China’s largest real estate companies, is a market leader in deploying an asset-light business model.</p>
+
+									</li><!--col-->
+			</ul>
+   		</div><!--wrapper-->
+   	</div><!--related-content-->
+
+   	<div class="wrapper"></div></div>
+
+   	
+   	<section id="discussion">
+   	<div class="wrapper">
+	<div class="twocol">&nbsp;</div>
+   		<div class="comments eightcol" id="comments">
+   			<hgroup>
+	   			<h2>Join The Discussion</h2>
+	   			<h3><em>One Comment So Far</em></h3>
+   			</hgroup>
+			<p class="comment-signin"><a href="https://knowledge.wharton.upenn.edu/wp-login.php?redirect_to=https%3A%2F%2Fknowledge.wharton.upenn.edu%2Farticle%2Fmarketing-future-data-analytics-changing%2F" title="Login">Log In</a> or <a href="/register/">sign up</a> to comment</p>
+   						<div class="comment" id="comment-5946">
+				<div class="comment-avatar">
+					<img alt='' src='https://secure.gravatar.com/avatar/e99ec599ab8916592c98158f24d1073d?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e99ec599ab8916592c98158f24d1073d?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />				</div>
+				<div class="comment-text">
+					<h5>Anumakonda Jagadeesh</h5>
+					<p>Excellent.<br />
+Data driven marketing is a process by which marketers gain insights and trends based on in-depth analysis informed by numbers. Data-driven marketing refers to strategies built on insights pulled from the analysis of big data, collected through consumer interactions and engagements, to form predictions about future behaviors. This involves understanding data already present, data that can be acquired, and how to organize, analyze, and apply that data to better marketing efforts. The intended goal is generally to enhance and personalize the customer experience. The market research allows for a comprehensive study of preferences.<br />
+Analytic tools allow for targeted and personalized marketing to the customer. Companies use customer reviews and customer support conversations to extract data for planning the marketing strategy. Approaching an audience with a targeted campaign increases the chances of their conversion. Marketers can now understand customer behavior and make informed decisions based on the data, thus allowing for a relevant targeting. </p>
+<p>What is marketing and data analytics?</p>
+<p>Marketing analytics is the practice of measuring, managing and analyzing marketing performance to maximize its effectiveness and optimize return on investment (ROI). Understanding marketing analytics allows marketers to be more efficient at their jobs and minimize wasted web marketing dollars.</p>
+<p>How is data analytics used in marketing?</p>
+<p>Using big data technologies and analytics methods, marketers can mine, combine and analyze both types of data in near real time. This can help them discover hidden patterns such as the way different groups of customers interact and how this leads to purchase decisions.</p>
+<p>What are the 4 types of analytics?</p>
+<p>Depending on the stage of the workflow and the requirement of data analysis, there are four main kinds of analytics – descriptive, diagnostic, predictive and prescriptive.</p>
+<p>Why is data analytics important in marketing?</p>
+<p>Analyzing the current market: Marketing data analysis of the present allows you to understand the current market better. It helps you to understand which methods are working fine. Answers questions like how the customers are responding to your marketing plan.</p>
+<p>What does a Marketing Data Analyst do?</p>
+<p>Marketing data analysts are experts in quantitative and qualitative market analysis. They excel in identifying key market statistics, interpreting findings, and helping marketing managers understand the numbers behind their marketing strategies.</p>
+<p>What skills does a marketing analyst need?</p>
+<p>A successful marketing analyst would possess the following skills on their CV:<br />
+•	Statistical knowledge and experience.<br />
+•	Attention to detail.<br />
+•	Marketing training and strategy.<br />
+•	The ability to interpret information effectively.<br />
+•	Knowledge of software such as Excel or SPSS.<br />
+•	Strong written and oral communication skills.<br />
+What data is important for marketing?</p>
+<p>Data such as a user&#8217;s browsing patterns, social media activity, online purchase behavior, and other metrics can help you focus your marketing efforts on what works. So, collect as much information about your target market as much as you can. This data will be at the core of any successful marketing strategy.</p>
+<p>How do I use Analytics?<br />
+Get started with Analytics<br />
+1.	Create or sign in to your Analytics account: Go to google.com/analytics. &#8230;<br />
+2.	Set up a property in your Analytics account. &#8230;<br />
+3.	Set up a reporting view in your property. &#8230;<br />
+4.	Follow the instructions to add the tracking code to your websiteso you can collect data in your Analytics property.</p>
+<p>What are analytics tools?</p>
+<p>Business analytics tools are types of application software that retrieve data from one or more business systems and combine it in a repository, such as a data warehouse, to be reviewed and analyzed.</p>
+<p>What are analysis techniques?</p>
+<p>An analytical technique (analytical method) is a procedure or a method for the analysis of some problem, status or a fact. Analytical techniques are usually time-limited and task-limited. They are used once to solve a specific issue</p>
+<p>Why is data analytics useful?</p>
+<p>Data Scientists and Analysts use data analytics techniques in their research, and businesses also use it to inform their decisions. Data analysis can help companies better understand their customers, evaluate their ad campaigns, personalize content, create content strategies and develop products</p>
+<p>What are marketing analytics tools?</p>
+<p>Marketing analytics tools are software platforms that help marketers understand the health of their marketing campaigns. They may track a variety of key metrics including website traffic, page views, click through rates, or many others in order to inform a marketer of which efforts are working, which aren&#8217;t, and why ?<br />
+How do digital analytics help in marketing?</p>
+<p>Using digital marketing analytics allows marketers to identify how each of their marketing initiatives (e.g., social media vs. blogging vs. email marketing, etc.) stack up against one another, determine the true ROI of their activities, and understand how well they&#8217;re achieving their business goals.</p>
+<p>What are top 3 skills for data analyst?</p>
+<p>Essential Skills for Data Analysts<br />
+•	SQL. SQL, or Structured Query Language, is the ubiquitous industry-standard database language and is possibly the most important skill for data analysts to know. &#8230;<br />
+•	Microsoft Excel. &#8230;<br />
+•	Critical Thinking. &#8230;<br />
+•	R or Python–Statistical Programming. &#8230;<br />
+•	Data Visualization. &#8230;<br />
+•	Presentation Skills. &#8230;<br />
+•	Machine Learning.</p>
+<p>What is the career path for data analyst?</p>
+<p>The career path you take as a data analyst depends in large part on your employer. Data analysts work on Wall Street at big investment banks, hedge funds, and private equity firms. They also work in the healthcare industry, marketing, and retail. In general, data analysts are everywhere.</p>
+<p>What are data analytics techniques?</p>
+<p>Data analysis is a process that relies on methods and techniques to taking raw data, mining for insights that are relevant to the business&#8217;s primary goals, and drilling down into this information to transform metrics, facts, and figures into initiatives for improvement.</p>
+<p>What are the types of data analytics?</p>
+<p>Types of data analytics<br />
+•	Descriptive analytics. Descriptive analytics answers the question of what happened. &#8230;<br />
+•	Diagnostic analytics. At this stage, historical data can be measured against other data to answer the question of why something happened. &#8230;<br />
+•	Predictive analytics. Predictive analytics tells what is likely to happen. &#8230;<br />
+•	Prescriptive analytics.<br />
+•	Are data analysts in demand?</p>
+<p>•	With so much information now available on a daily basis, it&#8217;s no surprise that data analysts are in high demand and, in turn, earning a salary that matches the growing needs of today&#8217;s employers.</p>
+<p>What are the 3 types of data?</p>
+<p>•	Introduction to Data Types. &#8230;<br />
+•	Categorical Data. &#8230;<br />
+•	Nominal Data. &#8230;<br />
+•	Ordinal Data. &#8230;<br />
+•	Discrete Data. &#8230;<br />
+•	Continuous Data. &#8230;<br />
+•	Why Data Types are important? &#8230;<br />
+•	Nominal Data.<br />
+•	Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains. In today&#8217;s business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.<br />
+•	Data mining is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information. In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA). EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses. Predictive analytics focuses on application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.<br />
+•	Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination. </p>
+<p>The process of data analysis</p>
+<p>Analysis, refers to dividing a whole into its separate components for individual examination. Data analysis, is a process for obtaining raw data, and subsequently converting it into information useful for decision-making by users. Data, is collected and analyzed to answer questions, test hypotheses, or disprove theories.<br />
+Statistician John Tukey, defined data analysis in 1961, as:<br />
+&#8220;Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data.&#8221;<br />
+There are several phases that can be distinguished, described below. The phases are iterative, in that feedback from later phases may result in additional work in earlier phases. The CRISP framework, used in data mining, has similar steps.</p>
+<p>The data are necessary as inputs to the analysis, which is specified based upon the requirements of those directing the analysis or customers (who will use the finished product of the analysis). The general type of entity upon which the data will be collected is referred to as an experimental unit (e.g., a person or population of people). Specific variables regarding a population (e.g., age and income) may be specified and obtained. Data may be numerical or categorical (i.e., a text label for numbers).<br />
+Data are collected from a variety of sources. The requirements may be communicated by analysts to custodians of the data; such as, Information Technology personnel within an organization. The data may also be collected from sensors in the environment, including traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation.<br />
+Data processing</p>
+<p>The phases of the intelligence cycle used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis.<br />
+Data, when initially obtained, must be processed or organized for analysis. For instance, these may involve placing data into rows and columns in a table format (known as structured data) for further analysis, often through the use of spreadsheet or statistical software.<br />
+Data cleaning<br />
+Once processed and organized, the data may be incomplete, contain duplicates, or contain errors. The need for data cleaning, will arise from problems in the way that the datum are entered and stored. Data cleaning is the process of preventing and correcting these errors. Common tasks include record matching, identifying inaccuracy of data, overall quality of existing data, deduplication, and column segmentation.[7] Such data problems can also be identified through a variety of analytical techniques. For example, with financial information, the totals for particular variables may be compared against separately published numbers, that are believed to be reliable. Unusual amounts, above or below predetermined thresholds, may also be reviewed. There are several types of data cleaning, that are dependent upon the type of data in the set; this could be phone numbers, email addresses, employers, or other values. Quantitative data methods for outlier detection, can be used to get rid of data that appears to have a higher likelihood of being input incorrectly. Textual data spell checkers, can be used to lessen the amount of mis-typed words, however, it is harder to tell if the words themselves are correct.<br />
+Once the datasets are cleaned, it can then be analyzed. Analysts may apply a variety of techniques, referred to as exploratory data analysis, to begin understanding the messages contained within the obtained data. The process of data exploration may result in additional data cleaning or additional requests for data; thus, the initialization of the iterative phases mentioned in the lead paragraph of this section. Descriptive statistics, such as, the average or median, can be generated to aid in understanding the data. Data visualization is also a technique used, in which the analyst is able to examine the data in a graphical format in order to obtain additional insights, regarding the messages within the data.[6]<br />
+Modeling and algorithms<br />
+Mathematical formulas or models (known as algorithms), may be applied to the data in order to identify relationships among the variables; for example, using correlation or causation. In general terms, models may be developed to evaluate a specific variable based on other variable(s) contained within the dataset, with some residual error depending on the implemented model&#8217;s accuracy (e.g., Data = Model + Error).<br />
+Inferential statistics, includes utilizing techniques that measure the relationships between particular variables. For example, regression analysis may be used to model whether a change in advertising (independent variable X), provides an explanation for the variation in sales (dependent variable Y). In mathematical terms, Y (sales) is a function of X (advertising). It may be described as (Y = aX + b + error), where the model is designed such that (a) andnd (), minimize the err,or when the model predict(s) Y for a given range of valuefor (f).X. Analysts may also attempt to build models that are descriptive of the data, in an aim to simplify analysis and communicate results.<br />
+A data product, is a computer application that takes data inputs and generates outputs, feeding them back into the environment. It may be based on a model or algorithm. For instance, an application that analyzes data about customer purchase history, and uses the results to recommend other purchases the customer might enjoy<br />
+Stephen Few described eight types of quantitative messages that users may attempt to understand or communicate from a set of data and the associated graphs used to help communicate the message. Customers specifying requirements and analysts performing the data analysis may consider these messages during the course of the process.<br />
+1.	Time-series: A single variable is captured over a period of time, such as the unemployment rate over a 10-year period. A line chart may be used to demonstrate the trend.<br />
+2.	Ranking: Categorical subdivisions are ranked in ascending or descending order, such as a ranking of sales performance (the measure) by sales persons (the category, with each sales person a categorical subdivision) during a single period. A bar chart may be used to show the comparison across the sales persons.<br />
+3.	Part-to-whole: Categorical subdivisions are measured as a ratio to the whole (i.e., a percentage out of 100%). A pie chart or bar chart can show the comparison of ratios, such as the market share represented by competitors in a market.<br />
+4.	Deviation: Categorical subdivisions are compared against a reference, such as a comparison of actual vs. budget expenses for several departments of a business for a given time period. A bar chart can show comparison of the actual versus the reference amount.<br />
+5.	Frequency distribution: Shows the number of observations of a particular variable for given interval, such as the number of years in which the stock market return is between intervals such as 0–10%, 11–20%, etc. A histogram, a type of bar chart, may be used for this analysis.<br />
+6.	Correlation: Comparison between observations represented by two variables (X,Y) to determine if they tend to move in the same or opposite directions. For example, plotting unemployment (X) and inflation (Y) for a sample of months. A scatter plot is typically used for this message.<br />
+7.	Nominal comparison: Comparing categorical subdivisions in no particular order, such as the sales volume by product code. A bar chart may be used for this comparison.<br />
+8.	Geographic or geospatial: Comparison of a variable across a map or layout, such as the unemployment rate by state or the number of persons on the various floors of a building. A cartogram is a typical graphic used.[11][12]<br />
+Techniques for analyzing quantitative data<br />
+Author Jonathan Koomey has recommended a series of best practices for understanding quantitative data. These include:<br />
+•	Check raw data for anomalies prior to performing an analysis;<br />
+•	Re-perform important calculations, such as verifying columns of data that are formula driven;<br />
+•	Confirm main totals are the sum of subtotals;<br />
+•	Check relationships between numbers that should be related in a predictable way, such as ratios over time;<br />
+•	Normalize numbers to make comparisons easier, such as analyzing amounts per person or relative to GDP or as an index value relative to a base year;<br />
+•	Break problems into component parts by analyzing factors that led to the results, such as DuPont analysis of return on equity.<br />
+For the variables under examination, analysts typically obtain descriptive statistics for them, such as the mean (average), median, and standard deviation. They may also analyze the distribution of the key variables to see how the individual values cluster around the mean.<br />
+The consultants at McKinsey and Company named a technique for breaking a quantitative problem down into its component parts called the MECE principle. Each layer can be broken down into its components; each of the sub-components must be mutually exclusive of each other and collectively add up to the layer above them. The relationship is referred to as &#8220;Mutually Exclusive and Collectively Exhaustive&#8221; or MECE. For example, profit by definition can be broken down into total revenue and total cost. In turn, total revenue can be analyzed by its components, such as revenue of divisions A, B, and C (which are mutually exclusive of each other) and should add to the total revenue (collectively exhaustive).<br />
+Analysts may use robust statistical measurements to solve certain analytical problems. Hypothesis testing is used when a particular hypothesis about the true state of affairs is made by the analyst and data is gathered to determine whether that state of affairs is true or false. For example, the hypothesis might be that &#8220;Unemployment has no effect on inflation&#8221;, which relates to an economics concept called the Phillips Curve. Hypothesis testing involves considering the likelihood of Type I and type II errors, which relate to whether the data supports accepting or rejecting the hypothesis.<br />
+Regression analysis may be used when the analyst is trying to determine the extent to which independent variable X affects dependent variable Y (e.g., &#8220;To what extent do changes in the unemployment rate (X) affect the inflation rate (Y)?&#8221;). This is an attempt to model or fit an equation line or curve to the data, such that Y is a function of X.<br />
+Necessary condition analysis (NCA) may be used when the analyst is trying to determine the extent to which independent variable X allows variable Y (e.g., &#8220;To what extent is a certain unemployment rate (X) necessary for a certain inflation rate (Y)?&#8221;). Whereas (multiple) regression analysis uses additive logic where each X-variable can produce the outcome and the X&#8217;s can compensate for each other (they are sufficient but not necessary), necessary condition analysis (NCA) uses necessity logic, where one or more X-variables allow the outcome to exist, but may not produce it (they are necessary but not sufficient). Each single necessary condition must be present and compensation is not possible.<br />
+In any report or article, the structure of the sample must be accurately described. It is especially important to exactly determine the structure of the sample (and specifically the size of the subgroups) when subgroup analyses will be performed during the main analysis phase.<br />
+The characteristics of the data sample can be assessed by looking at:<br />
+•	Basic statistics of important variables<br />
+•	Scatter plots<br />
+•	Correlations and associations<br />
+•	Cross-tabulations<br />
+During the final stage, the findings of the initial data analysis are documented, and necessary, preferable, and possible corrective actions are taken.<br />
+Also, the original plan for the main data analyses can and should be specified in more detail or rewritten.<br />
+In order to do this, several decisions about the main data analyses can and should be made:<br />
+•	In the case of non-normals: should one transform variables; make variables categorical (ordinal/dichotomous); adapt the analysis method?<br />
+•	In the case of missing data: should one neglect or impute the missing data; which imputation technique should be used?<br />
+•	In the case of outliers: should one use robust analysis techniques?<br />
+•	In case items do not fit the scale: should one adapt the measurement instrument by omitting items, or rather ensure comparability with other (uses of the) measurement instrument(s)?<br />
+•	In the case of (too) small subgroups: should one drop the hypothesis about inter-group differences, or use small sample techniques, like exact tests or bootstrapping?<br />
+•	In case the randomization procedure seems to be defective: can and should one calculate propensity scores and include them as covariates in the main analyses?<br />
+Several analyses can be used during the initial data analysis phase:<br />
+•	Univariate statistics (single variable)<br />
+•	Bivariate associations (correlations)<br />
+•	Graphical techniques (scatter plots)<br />
+It is important to take the measurement levels of the variables into account for the analyses, as special statistical techniques are available for each level:<br />
+•	Nominal and ordinal variables<br />
+o	Frequency counts (numbers and percentages)<br />
+o	Associations<br />
+	circumambulations (crosstabulations)<br />
+	hierarchical loglinear analysis (restricted to a maximum of 8 variables)<br />
+	loglinear analysis (to identify relevant/important variables and possible confounders)<br />
+o	Exact tests or bootstrapping (in case subgroups are small)<br />
+o	Computation of new variables<br />
+•	Continuous variables<br />
+o	Distribution<br />
+	Statistics (M, SD, variance, skewness, kurtosis)<br />
+	Stem-and-leaf displays<br />
+	Box plots<br />
+Nonlinear analysis is often necessary when the data is recorded from a nonlinear system. Nonlinear systems can exhibit complex dynamic effects including bifurcations, chaos, harmonics and subharmonics that cannot be analyzed using simple linear methods. Nonlinear data analysis is closely related to nonlinear system identification.<br />
+In the main analysis phase analyses aimed at answering the research question are performed as well as any other relevant analysis needed to write the first draft of the research report.<br />
+Exploratory and confirmatory approaches<br />
+In the main analysis phase either an exploratory or confirmatory approach can be adopted. Usually the approach is decided before data is collected. In an exploratory analysis no clear hypothesis is stated before analysing the data, and the data is searched for models that describe the data well. In a confirmatory analysis clear hypotheses about the data are tested.<br />
+Exploratory data analysis should be interpreted carefully. When testing multiple models at once there is a high chance on finding at least one of them to be significant, but this can be due to a type 1 error. It is important to always adjust the significance level when testing multiple models with, for example, a Bonferroni correction. Also, one should not follow up an exploratory analysis with a confirmatory analysis in the same dataset. An exploratory analysis is used to find ideas for a theory, but not to test that theory as well. When a model is found exploratory in a dataset, then following up that analysis with a confirmatory analysis in the same dataset could simply mean that the results of the confirmatory analysis are due to the same type 1 error that resulted in the exploratory model in the first place. The confirmatory analysis therefore will not be more informative than the original exploratory analysis.<br />
+Notable free software for data analysis include:<br />
+•	DevInfo – A database system endorsed by the United Nations Development Group for monitoring and analyzing human development.<br />
+•	ELKI – Data mining framework in Java with data mining oriented visualization functions.<br />
+•	KNIME – The Konstanz Information Miner, a user friendly and comprehensive data analytics framework.<br />
+•	Orange – A visual programming tool featuring interactive data visualization and methods for statistical data analysis, data mining, and machine learning.<br />
+•	Pandas – Python library for data analysis.<br />
+•	PAW – FORTRAN/C data analysis framework developed at CERN.<br />
+•	R – A programming language and software environment for statistical computing and graphics.<br />
+•	ROOT – C++ data analysis framework developed at CERN.<br />
+•	SciPy – Python library for data analysis.<br />
+•	Data.Analysis – A .NET library for data analysis and transformation.<br />
+•	Julia &#8211; A programming language well-suited for numerical analysis and computational science<br />
+•	Wikipedia<br />
+•	Dr.A.Jagadeesh  Nellore(AP),India</p>
+				</div>
+			</div>
+
+
+						   		</div>
+   		</div>
+   	</div>
+   	</section>
+
+<div id="sponsors">
+	<div class="wrapper">
+		<div class="about-sponsors">
+    			<p>Knowledge@Wharton Partners</p>
+    			<ul>
+    				<li><a href="https://knowledge.wharton.upenn.edu/sponsor/">View All Partners</a></li>
+    				<li><a href="https://knowledge.wharton.upenn.edu/category/partner-collaborations/">Partner Collaborations</a></li>
+    				<!-- <li><a href="https://knowledge.wharton.upenn.edu/become-a-content-partner/">Become a Content Partner</a></li>-->
+    			</ul>
+		</div>
+		<ul id="sponsor-logos">
+			<li>
+				<!-- KW_Footer_1 -->
+				<div id='div-gpt-ad-1378474385333-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378474385333-0'); });
+				</script>
+				</div>
+			</li>
+			<li>
+				<!-- KW_Footer_2 -->
+				<div id='div-gpt-ad-1378475308734-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378475308734-0'); });
+				</script>
+				</div>
+			</li>
+			<li>
+				<!-- KW_Footer_3 -->
+				<div id='div-gpt-ad-1378475497346-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378475497346-0'); });
+				</script>
+				</div>
+			</li>
+			<li>
+				<!-- KW_Footer_4 -->
+				<div id='div-gpt-ad-1378475548341-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378475548341-0'); });
+				</script>
+				</div>
+			</li>
+			<li>
+				<!-- KW_Footer_5 -->
+				<div id='div-gpt-ad-1378475578066-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378475578066-0'); });
+				</script>
+				</div>
+			</li>
+			<li>
+				<!-- KW_Footer_6 -->
+				<div id='div-gpt-ad-1378475603758-0' style='width:140px; height:50px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378475603758-0'); });
+				</script>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<footer class="main-footer">
+	<div class="wrapper">
+    		<div class="footer-top clearfix">
+
+				<div class="footer-about fourcol">
+					<div>			<div class="textwidget">The Wharton School is committed to sharing its intellectual capital through the school’s online business journal, Knowledge@Wharton.
+</div>
+		</div>				</div><!--fourcol-->
+
+				<div class="footer-podcasts fourcol">
+					<div>			<div class="textwidget"><h4><a href="/category/podcasts/">Podcasts</a></h4>
+
+Hear what CEOs, Wharton faculty, and other commentators have to say about the latest business trends, breaking news and market research in their own words.
+
+<a href="/category/podcasts/" class="btn ss-standard ss-mic">Listen Now</a>
+
+</div>
+		</div>				</div>
+
+	    		<div class="informed">
+					<div><div class="newsletter-widget"><h4>stay informed</h4>
+				<p>Get Knowledge@Wharton delivered to your inbox every week.</p>
+				<form method="post">
+				<input type="email" title="Email Address" aria-label="Email Address" class="newsletter-email" name="newsletter_email" placeholder="E-mail address" />
+
+				<input type="submit" class="btn submit" value="Subscribe">
+
+				<input type="submit" class="go" value="Go">
+				</form>
+			</div></div><div>			<div class="textwidget"><div class="footersocial"> Follow us on: 
+<li><a href="http://www.facebook.com/knowledgeatwharton/" class="ss-icon ss-social" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li><a href="https://twitter.com/whartonknows" class="ss-icon ss-social" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li>&nbsp;<a href="https://www.linkedin.com/company/knowledge-wharton" class="ss-icon ss-social" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+<li>&nbsp;<a href="https://www.instagram.com/whartonknows/?hl=en" class="ss-icon ss-social" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+</div>
+
+
+</div>
+		</div>	    		</div><!--informed-->
+
+    		</div><!--/.footer-top-->
+
+    		<div class="footer-btm">
+    			<nav class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-93014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93014"><a href="https://knowledge.wharton.upenn.edu/about/">About Knowledge@Wharton</a></li>
+<li id="menu-item-93012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93012"><a href="https://knowledge.wharton.upenn.edu/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-93645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93645"><a href="https://knowledge.wharton.upenn.edu/feedback/">Feedback</a></li>
+</ul></nav>   				<p>All materials copyright of the <a href="http://www.wharton.upenn.edu/" target="_blank" >Wharton School</a> of the <a href="http://www.upenn.edu/" target="_blank" >University of Pennsylvania</a>.</p>
+				<p><a target="_blank" href="https://accessibility.web-resources.upenn.edu/get-help">Report accessibility issues and get help</a></p>
+			</div><!--footerBottomHalf-->
+
+
+		</div>
+</footer>
+<!-- Popups v1.8 - https://wordpress.org/plugins/social-popup/ --><script type="text/javascript"> if(typeof window.lv_formIDs == "undefined"){ window.lv_formIDs = []; }  window.lv_formIDs.push(13);</script><script type="text/javascript">var lv_gf_is_ajax = "no";  if(typeof window.all_validations == "undefined"){ window.all_validations = {}; } </script> <script type="text/javascript">window.all_validations[13] = {};</script> <script type="text/javascript">
+             
+
+      
+            
+
+            jQuery(document).bind("gform_post_render", function(event,data,page){
+            
+               
+                
+             try {
+
+                    var jqr = jQuery;  var f1 = new LiveValidation("input_13_1",jqr.extend({validMessage: " ", jqObj: jqr,fieldType:"email" },additional_data )); all_validations[13]["1"] =  f1; f1.add(Validate.Presence,{ failureMessage: "This field is required.",validMessage: " " ,jqObj: jqr }); f1.add(Validate.Format, { pattern: /^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/, failureMessage: "Please make sure to enter a valid email." ,validMessage: " " ,jqObj: jqr } );   } catch(err) {
+               console.log(err);    
+  console.error("Error Applying validations!!");
+}}); </script><style type="text/css">
+#spu-103754 .spu-close{
+	font-size: 30px;
+	color:#666;
+	text-shadow: 0 1px 0 #fff;
+}
+#spu-103754 .spu-close:hover{
+	color:#000;
+}
+#spu-103754 {
+	background-color: #eeeeee;
+	background-color: rgba(238,238,238,1);
+	color: #333;
+	padding: 25px;
+		border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-box-shadow:  0px 0px 10px 1px #666;
+	-webkit-box-shadow:  0px 0px 10px 1px #666;
+	box-shadow:  0px 0px 10px 1px #666;
+	width: 600px;
+
+}
+#spu-bg-103754 {
+	opacity: 0.5;
+	background-color: #000;
+}
+/*
+		* Add custom CSS for this popup
+		* Be sure to start your rules with #spu-103754 { } and use !important when needed to override plugin rules
+		*/</style>
+<div class="spu-bg" id="spu-bg-103754"></div>
+<div class="spu-box  spu-centered spu-total- " id="spu-103754"
+ data-box-id="103754" data-trigger="seconds"
+ data-trigger-number="5"
+ data-spuanimation="fade" data-cookie="999" data-close-cookie="30" data-test-mode="0"
+ data-auto-hide="0" data-close-on-conversion="1" data-bgopa="0.5" data-total=""
+ style="left:-99999px !important;" data-width="600" >
+	<div class="spu-content">
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_13' ><form method='post' enctype='multipart/form-data'  id='gform_13'  action='/article/marketing-future-data-analytics-changing/'>
+                        <div class='gform_heading'>
+                            <span class='gform_description'></span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_13' class='gform_fields top_label form_sublabel_above description_above'><li id='field_13_3' class='gfield gfield_html gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible' ><div>SIGN UP FOR OUR EMAIL NEWSLETTER<img style="float:right;" src="/wp-content/themes/knowledge/inc/img/compact-logo.png" /></div>
+<div style="height:20px; clear:both;"></div>
+<div>Sign up for the weekly Knowledge@Wharton e-mail newsletter, offering business leaders cutting-edge research and ideas from Wharton faculty and other experts.<div></li><li id='field_13_1' class='gfield gfield_contains_required field_sublabel_above field_description_above gfield_visibility_visible' ><label class='gfield_label' for='input_13_1' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_13_1' type='text' value='' class='large' tabindex='1'    aria-required="true" aria-invalid="false"/>
+                        </div></li><li id='field_13_2' class='gfield gform_hidden field_sublabel_above field_description_above gfield_visibility_visible' ><input name='input_2' id='input_13_2' type='hidden' class='gform_hidden'  aria-invalid="false" value='no' /></li><li id='field_13_4' class='gfield gform_hidden field_sublabel_above field_description_above gfield_visibility_visible' ><input name='input_4' id='input_13_4' type='hidden' class='gform_hidden'  aria-invalid="false" value='106.210.253.209' /></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_13' class='gform_button button' value='Subscribe' tabindex='2' onclick='if(window["gf_submitting_13"]){return false;}  window["gf_submitting_13"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_13"]){return false;} window["gf_submitting_13"]=true;  jQuery("#gform_13").trigger("submit",[true]); }' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_13' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='13' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_13' value='WyJbXSIsIjFkYWVkYjMxZjdlOTQyMWFjNmQ5ZmYwOWY1MjZiM2RkIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_13' id='gform_target_page_number_13' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_13' id='gform_source_page_number_13' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/knowledge.wharton.upenn.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/knowledge.wharton.upenn.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 13) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [13, 1]) } ); </script>
+</div>
+	<span class="spu-close spu-close-popup top_right"><i class="spu-icon spu-icon-close"></i></span>
+	<span class="spu-timer"></span>
+	</div>
+<!-- / Popups Box -->
+<div id="fb-root" class=" fb_reset"></div>	<div style="display:none">
+	<div class="grofile-hash-map-e99ec599ab8916592c98158f24d1073d">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite_scroll = "{\"loading\":{\"msgText\":\"<em>Loading...<\\\/em>\",\"finishedMsg\":\"<em>No additional posts.<\\\/em>\",\"img\":\"http:\\\/\\\/knowledge.wpengine.com\\\/wp-content\\\/plugins\\\/infinite-scroll\\\/img\\\/ajax-loader.gif\"},\"nextSelector\":\"#load-more a:first\",\"navSelector\":\"#load-more\",\"itemSelector\":\".excerpt\",\"contentSelector\":\"#category-scroll\",\"debug\":true,\"behavior\":\"twitter\",\"callback\":\"jQuery('audio').mediaelementplayer();\"}";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/wharton-infinite-scroll/js/front-end/jquery.infinitescroll.js?ver=2.6.1'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/wharton-infinite-scroll/behaviors/manual-trigger.js?ver=2.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var analytics_info = {"post_type":"article"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/analytics-events/public/assets/js/analytics-events.js?ver=0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"","ajax_url":"https:\/\/knowledge.wharton.upenn.edu\/wp-admin\/admin-ajax.php","ajax_mode_url":"https:\/\/knowledge.wharton.upenn.edu\/?spu_action=spu_load&lang=","pid":"109556","is_front_page":"","is_category":"","site_url":"https:\/\/knowledge.wharton.upenn.edu","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.8'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202130'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2021Julaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-includes/js/dist/vendor/moment.min.js?ver=2.22.2'></script>
+<script type='text/javascript'>
+moment.locale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":0},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-content/plugins/elasticpress/dist/js/facets.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='https://knowledge.wharton.upenn.edu/wp-includes/js/wp-embed.min.js?ver=5.4.6'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202130.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.4',blog:'72886147',post:'109556',tz:'-4',srv:'knowledge.wharton.upenn.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '72886147', '109556' ]);
+</script>
+</body>
+</html>
